@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there,<br>My name is Meryem Sanem 👋<br>
+<p text-align:center;>Hi there,<br>My name is Meryem Sanem 👋<br></p>
 
 
 # 💻 Tech Stack:
