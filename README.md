@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif" />
 </div>
-<h2 align="center"><i>Hi 👋 welcome to my world! 👩‍💻</i></h2>
+<h2 align="center"><i>Hi 👋 Welcome to My World! 👩‍💻</i></h2>
 <div align="center">
 <img align="center"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdiMTM2NTRhNmE2NjE3Njg5ZjdiOTQ1YTJiODc0YzMwZWZlMTNmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u2qzwz1R4TmWQN5S7n/giphy.gif">
 </div> <br><br>
