@@ -17,7 +17,7 @@ I have a passion for developing innovative software solutions and engineering se
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=meryemsanem&show_icons=true&locale=en" alt="meryemsanem" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryemsanem&show_icons=true&locale=en&layout=compact" alt="meryemsanem" /></p>
+<p> <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meryemsanem&theme=react&line_height=40&hide=css"/> </a></p>
 </div>
 
 <div align="center">
