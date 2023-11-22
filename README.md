@@ -14,9 +14,10 @@ I have a passion for developing innovative software solutions and engineering se
 
 <div align="center">
 <p> <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=meryemsanem&" alt="meryemsanem" /></a></p>
-<img src="https://github-readme-stats.vercel.app/api?username=meryemsanem&show_icons=true&count_private=true&hide_border=true" align="center" style="margin-bottom: 5px;"/> 
+<p> <a href=""><img src="https://github-readme-stats.vercel.app/api?username=meryemsanem&show_icons=true&count_private=true&hide_border=true"/> </a></p>
 <p> <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meryemsanem&theme=react&line_height=40&hide=css"/> </a></p>
 </div>
+
 
 <div align="center">
 <a href="https://github.com/meryemsanem" target="_blank">
