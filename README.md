@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif" />
+<!--   <img height="150" src="https://media.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif" /> -->
 </div>
 <h2 align="center"><i>Hi 👋 Welcome to My World! 👩‍💻</i></h2>
 <div align="center">
