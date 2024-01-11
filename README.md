@@ -6,7 +6,7 @@
 </div>
 <br>
 <p align="center">I'm Meryem Sanem, a Full-Stack Developer with a degree in Mathematics and Computer Science. 
-Currently, I am a student at Microverse, where I am gaining knowledge and experience in software engineering. 
+Currently, I am a student at Microverse, where I am gaining knowledge and experience in software development. 
 I have a passion for developing innovative software solutions and engineering seamless user experiences. I am highly motivated and hardworking, with an eagerness to learn and develop my skills further. I am confident in my ability to create reliable and efficient applications that are user-friendly and aesthetically pleasing.<br>With my creativity, technical and soft skills, I can provide value to any organization I work with.<br>Please don't hesitate to reach out to me 😊 <br>I would love to connect and explore how I can help you improve and enhance your web-based tools. 👐</p>
 
 <h3 align="center">Languages and Tools:</h3>
